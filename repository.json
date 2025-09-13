@@ -1,1 +1,5 @@
-
+{
+    "name": "evcc",
+    "url": "https://github.com/evcc-io/evcc/tree/0.207.4",
+    "maintainer": "evcc team <info@evcc.io>"
+}
