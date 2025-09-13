@@ -1,6 +1,6 @@
-name: EVCC (pinned 0.207.4)
+name: EVCC
 version: "0.207.4-ha1"
-slug: evcc_pinned
+slug: evcc
 description: EVCC figé sur l'image Docker evcc/evcc:0.207.4
 url: https://github.com/evcc-io/evcc
 arch:
