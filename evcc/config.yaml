@@ -2,7 +2,7 @@ name: EVCC
 version: "0.207.4-ha1"
 slug: evcc
 description: EVCC figé sur l'image Docker evcc/evcc:0.207.4
-url: https://github.com/evcc-io/evcc
+url: https://github.com/evcc-io/evcc/tree/0.207.4
 arch:
   - aarch64
   - amd64
